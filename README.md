@@ -72,6 +72,6 @@ Sources:
 
 #### Screencast
 
-![Screencast](https://github.ncsu.edu/sgulati2/HW1/blob/master/HW1_sgulati2.gif)
+![Screencast](https://github.com/shivamgulati1991/HW1-ConfigureServers/blob/master/HW1_sgulati2.gif)
 
-[Link to GIF] (https://github.ncsu.edu/sgulati2/HW1/blob/master/HW1_sgulati2.gif)
+[Link to GIF] (https://github.com/shivamgulati1991/HW1-ConfigureServers/blob/master/HW1_sgulati2.gif)
